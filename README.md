@@ -1,8 +1,8 @@
-<h1 align="center">Olá Mundo!!</h1>
+<h1 align="center">Olá Mundo!!✌️</h1>
 
 ###
 
-<p align="center">Me chamo warley e sou um desenvolvedor front-end gafanhoto em processo de evolução</p>
+<p align="center">Me chamo warley e sou um desenvolvedor front-end gafanhoto em processo de evolução!😁</p>
 
 ###
 
